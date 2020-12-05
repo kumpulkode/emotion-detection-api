@@ -13,5 +13,4 @@ pandas
 Pillow
 requests
 mtcnn>=0.1.0
-flask
 fer
