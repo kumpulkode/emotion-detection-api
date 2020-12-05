@@ -14,3 +14,4 @@ Pillow
 requests
 mtcnn>=0.1.0
 fer
+tensorflow-cpu
